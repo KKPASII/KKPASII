@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="(https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/flat-000000?style=flat&logo=#E4405F&logoColor=FFFFFF"/>
+</a>
