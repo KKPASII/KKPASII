@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="(https://www.instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/flat-000000?style=flat&logo=#E4405F&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/000000?style=flat&logo=#E4405F&logoColor=FFFFFF"/>
 </a>
