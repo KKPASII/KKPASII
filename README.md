@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="(https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=#E4405F"/>
 </a>
