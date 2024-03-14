@@ -3,7 +3,7 @@
 </a>
 
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=csharp%2B%2B&logoColor=white">
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lning21)
