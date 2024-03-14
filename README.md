@@ -3,7 +3,7 @@
 </a>
 
 
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
+<img src="https://img.shields.io/badge/문자-#00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lning21)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKPASII&layout=compact&theme=onedark)
