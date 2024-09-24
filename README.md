@@ -4,5 +4,9 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{KKPASII}"/>
+<img
+  src="https://render.gitanimals.org/farms/KKPASII"
+  width="600"
+  height="300"
+/>
 </a>
