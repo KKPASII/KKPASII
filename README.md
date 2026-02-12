@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKPASII&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKPASII&layout=compact)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
